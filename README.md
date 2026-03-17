@@ -1,0 +1,1 @@
+# Novel-Adaptive-Lightweight-CNN-Architecture-for-Hand-Gesture-Recognition-using-Electromyogram
